@@ -17,6 +17,16 @@ npm install minimist pino pino-pretty
 
 ---
 
+## Photos
+
+<img width="1163" height="680" alt="image" src="https://github.com/user-attachments/assets/13540084-93b6-4654-8945-61272401208c" />
+
+<img width="1183" height="701" alt="image" src="https://github.com/user-attachments/assets/06890d4b-26e5-4a4d-8991-2d17c927d8f5" />
+
+<img width="1280" height="709" alt="image" src="https://github.com/user-attachments/assets/7a769cc5-59ed-474b-b78d-165c581fd329" />
+
+---
+
 ## Folder Structure
 
 If no video is provided, all videos inside:
